@@ -15,6 +15,11 @@ npm run serve
 ```
 npm run build
 ```
+## Installations of packages
+npm install
+
+## Start Server
+npm run start
 
 ### Lints and fixes files
 ```
